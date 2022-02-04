@@ -1,2 +1,2 @@
 # EventManagement
-close#7
+closes#7
